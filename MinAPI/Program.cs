@@ -22,7 +22,6 @@ record Note(int id){
     public bool done {get;set;} = default!;
 }
 
-using Microsoft.EntityFrameworkCore; // place this line at the beginning of file.
 
 class NoteDb: DbContext {
     public NoteDb(DbContextOptions<NoteDb> options): base(options) {
