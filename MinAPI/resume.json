@@ -1,0 +1,25 @@
+{
+	"Heading": {
+		"name": "Eleanor Carl",
+		"Title": "Software Engineer",
+		"Address": "Seattle WA☏(253) 886 - 9186",
+		"Email": "elliesc.dev1 @outlook.com"
+	},
+	"Summary": {
+		"intro": "Software Developer In Test with 3 years of professional experience.The last 2 years are spent developing software engineering and business instincts in LexisNexis.Providing a high level of standards to provide quality tested software for team and project.",
+		"skills1": "Experience working with GIS data creating ECL ROXIE Queries with API OpenStreetMap developing a UI",
+		"skills2": "Knowledge of Software Testing and the Software Development Life Cycle including Agile Methodologies",
+		"skills3": "Professional experience with CI/CD",
+		"skills4": "Experience working with GIS data creating ECL ROXIE Queries with API OpenStreetMap developing a UI",
+		"skillslist": "JavaScript Python TypeScript C # ASP.NET Java ECL Docker BASH Scripting PowerShell Scripting Unix Linux React Hooks ReactJS PHP REST API Spring Agile Development Methods Design Patterns Test Driven Development Unit Testing Version Control Security Minded Development"
+	},
+	"Education": {
+		"job1": "",
+		"job2": "",
+		"job3": ""
+	},
+	"Volunteer Experience": {
+		"GRUB": "",
+		"OSL": ""
+	}
+}
