@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cheemz\\source\\repos\\ASP-Rest-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj": {}
+    "C:\\Users\\Cheemz\\source\\repos\\ASP-REST-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cheemz\\source\\repos\\ASP-Rest-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj": {
+    "C:\\Users\\Cheemz\\source\\repos\\ASP-REST-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cheemz\\source\\repos\\ASP-Rest-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Cheemz\\source\\repos\\ASP-REST-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj",
         "projectName": "MinAPI",
-        "projectPath": "C:\\Users\\Cheemz\\source\\repos\\ASP-Rest-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj",
+        "projectPath": "C:\\Users\\Cheemz\\source\\repos\\ASP-REST-WebAPI-ReactRedux-Postgres\\MinAPI\\MinAPI.csproj",
         "packagesPath": "C:\\Users\\Cheemz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cheemz\\source\\repos\\ASP-Rest-WebAPI-ReactRedux-Postgres\\MinAPI\\obj\\",
+        "outputPath": "C:\\Users\\Cheemz\\source\\repos\\ASP-REST-WebAPI-ReactRedux-Postgres\\MinAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
