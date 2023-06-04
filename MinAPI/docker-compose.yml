@@ -1,20 +1,18 @@
+version: '3.1'
+
 services:
-  postgres:
-    build:
-      context: .
-      dockerfile: postgres.dockerfile
-    image: "postgres-tutorials"
-    container_name: ${PG_CONTAINER_NAME}
+
+  db:
+    image: postgres
+    restart: always
     environment:
-      POSTGRES_DB: ${POSTGRES_DB}
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      PGDATA: ${PGDATA}
-    volumes:
-       - dbtuto:/data/postgres-tuto
+      POSTGRES_PASSWORD: name1
+      POSTGRES_USER: ellie
+      POSTGRES_DB: resume
+      
+
+  adminer:
+    image: adminer
+    restart: always
     ports:
-      - "5432:5432"
-    restart: unless-stopped
-volumes:
-    resumedb:
-      external: true
+      - 8080:8080
